@@ -1,0 +1,12 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: server
+data:
+  NODE_ENV: 'production'
+  port: '80'
+  production-config: |
+    api:
+      url: https://api.apilayer.com/short_url/hash
+    redis:
+      EX: 300

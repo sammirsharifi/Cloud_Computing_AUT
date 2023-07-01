@@ -1,0 +1,4 @@
+api:
+  url: https://api.apilayer.com/short_url/hash
+redis:
+  EX: 300

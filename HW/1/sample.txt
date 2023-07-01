@@ -1,0 +1,6 @@
+{"token":"sam.mirsharifi79@gmail.com",
+ "user_object": {"code":"num1 = int(input())\nnum2 = int(input())\nsum = num1 + num2\nprint(\"Sum of {0} and {1} is {2}\" .format(num1, num2, sum))" , "inputs":"12\n23","language":"py"}}
+
+
+{"token":"sam.mirsharifi79@gmail.com",
+ "user_object": {"code":"class Simple{  \npublic static void main(String args[]){  \nSystem.out.println(\"Hello CC Project 1\"); }  }  " , "inputs":"","language":"java"}}
